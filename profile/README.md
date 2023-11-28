@@ -57,7 +57,9 @@ The CIGLR AI Lab harnesses machine learning and artificial intelligence techniqu
 Below are some useful resources for data science, machine learning, and artificial intelligence for Great Lakes science
 
 ### Data science, machine learning, AI 
-- [Link to documentation]
+- [NOAA Center for Artificial Intelligence (NCAI) Resources](https://www.noaa.gov/noaa-center-for-artificial-intelligence/noaa-center-for-artificial-intelligence/resources)
+- [NOAA Presentation on AI-Ready Open Data](https://www.star.nesdis.noaa.gov/star/documents/meetings/2020AI/presentations/202010/20201022_Christensen.pdf)
+- [scikit-learn Python package](https://scikit-learn.org/stable/index.html)
 
 ### Related organizations at U. Michigan 
 - [Any other important resources for the community]
