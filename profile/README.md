@@ -19,14 +19,14 @@ The CIGLR AI Lab harnesses machine learning and artificial intelligence techniqu
 ### Collaborating with Our GitHub Organization
 
 #### How to Interact with Repositories
-- **Fork & Clone:** Fork our repositories and clone them to your local machine.
+- **Fork & Clone:** Fork our repositories and clone them to your computing platform.
 - **Branching:** Create a new branch for your contributions.
 - **Commits:** Make clear and descriptive commits following our commit message conventions.
-- **Pull Requests:** Submit pull requests against the main branch, detailing your changes comprehensively.
+- **Pull Requests:** Submit pull requests against the main branch, detailing your changes comprehensively, please.
 
 #### Review Process
-- **Code Review:** Await code review and respond to feedback promptly.
-- **Testing:** Ensure your code modifications pass tests associated with the repository.
+- **Code Review:** Await code review and respond to feedback. Keep it collaborative!
+- **Testing:** Ensure your code modifications pass tests associated with the repository. (We don't have these yet)
 
 ### Research Collaboration
 - We welcome collaborations from researchers, scientists, and enthusiasts interested in our field.
@@ -37,8 +37,8 @@ The CIGLR AI Lab harnesses machine learning and artificial intelligence techniqu
 - Submit your work following the guidelines outlined in [link to submission guidelines].
 
 ### Community Engagement
-- Join discussions and share ideas in our research-focused community forums or seminars.
-- Participate in workshops or conferences organized by our institute.
+- Join discussions and share ideas in our research-focused community forums or seminars (coming soon).
+- Participate in workshops or conferences organized by our institute (coming soon).
 
 ### Data and Resource Contributions
 - Share datasets, tools, or resources that could benefit the research community.
