@@ -49,7 +49,7 @@ The Great Lakes AI Lab harnesses machine learning and artificial intelligence te
 - Provide constructive feedback and insights for improving research work.
 
 ### Attribution and Licensing
-- Acknowledge and cite our institute's work or resources used in your research.
+- Acknowledge and cite CIGLR's work or resources used in your research.
 - Respect and adhere to the licensing terms of shared resources.
 
 
