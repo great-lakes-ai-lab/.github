@@ -9,10 +9,10 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Welcome to the CIGLR AI Lab GitHub organization!
+# Welcome to the Great Lakes AI Lab GitHub organization!
 
 ## About Us
-The CIGLR AI Lab harnesses machine learning and artificial intelligence techniques to address environmental challenges and hazards facing the Great Lakes and the communities they support.
+The Great Lakes AI Lab harnesses machine learning and artificial intelligence techniques to address environmental challenges and hazards facing the Great Lakes and the communities they support.
 
 ## Contribution Guidelines
 
