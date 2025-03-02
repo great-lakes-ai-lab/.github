@@ -11,6 +11,9 @@
 
 # Welcome to the Great Lakes AI Lab GitHub organization!
 
+![Typeface Logo - Dark (3)](https://github.com/user-attachments/assets/d91ef617-19a7-49ec-a5af-91ca5fdb7bc3)
+
+
 ## About Us
 The Great Lakes AI Lab harnesses machine learning and artificial intelligence techniques to address environmental challenges and hazards facing the Great Lakes and the communities they support.
 
